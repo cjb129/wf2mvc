@@ -1,0 +1,12 @@
+﻿@model PartyMVC.RSVP
+
+<html>
+<body>
+<p>Name: @Html.TextBoxFor(x => x.name) </p>
+<p>Are you coming? @Html.DropDownListFor(x => x.rsvp, new[] {
+	new SelectListItem() {Text = "Yes"},
+	new SelectListItem() {Text = "No"}
+}, "Choose an option")</p>
+<input type="submit" value="Submit" />
+</body>
+</html>
