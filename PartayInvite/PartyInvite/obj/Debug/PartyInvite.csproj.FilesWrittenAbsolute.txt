@@ -1,0 +1,5 @@
+/home/cory/git/WebFormToMVC/PartyInvite/PartyInvite/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cory/git/WebFormToMVC/PartyInvite/PartyInvite/bin/PartyInvite.pdb
+/home/cory/git/WebFormToMVC/PartyInvite/PartyInvite/bin/PartyInvite.dll
+/home/cory/git/WebFormToMVC/PartyInvite/PartyInvite/obj/Debug/PartyInvite.dll
+/home/cory/git/WebFormToMVC/PartyInvite/PartyInvite/obj/Debug/PartyInvite.pdb
